@@ -1,2 +1,2 @@
 # vagrant
-Criando IaC vom Vagrant
+Criando IaC com Vagrant
